@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AceMNSKY
 - 👀 I’m interested in HTML, CSS & JS
 - 🌱 I’m currently learning CSS & JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Contact me on twitter - @AceMNSKY
 
 <!---
