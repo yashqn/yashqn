@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AceMNSKY
-- 👀 I’m interested in HTML, CSS & JS
-- 🌱 I’m currently learning CSS & JS
+- 👋 Hi, I’m @yashqn
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 Contact me on twitter - @AceMNSKY
+- 📫 Contact me on twitter - @yashqn
 
 <!---
 AceMNSKY/AceMNSKY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
